@@ -63,10 +63,10 @@ The system will follow a **three-tier architecture**:
 
 | **Phase** | **Tasks** | **Duration** |
 |-----------|----------|--------------|
-| Planning | Requirement Gathering, Market Research | 2 Days |
-| Design | UI/UX Prototyping, Database Schema | 3 Days |
-| Development | Frontend & Backend Development, API Integration | 8 Days |
-| Testing | Bug Fixing, Performance Optimization | 3 Days |
+| Planning | Requirement Gathering, Market Research | 3 Days |
+| Design | UI/UX Prototyping, Database Schema | 4 Days |
+| Development | Frontend & Backend Development, API Integration | 10 Days |
+| Testing | Bug Fixing, Performance Optimization | 5 Days |
 | Deployment | Hosting, Security Audit, Final Adjustments | 2 Days |
 | Post-Launch | User Feedback, Continuous Improvements | Ongoing |
 
@@ -94,7 +94,7 @@ The system will follow a **three-tier architecture**:
 ---
 
 ## **Team Profile**
-- **Ayo-Ajayi Tokiloba** – Project Manager
+- **Ayo-Ajayi Tokiloba** – Project Manager/Backend
 - **Balogun Eniola** – Front-end/Consultant
 - **Divine Athora** – Front-end
 - **Egoh Royal** – Front-end
